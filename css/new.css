@@ -39,6 +39,22 @@ h4{
     text-decoration: underline;
 }
 
+.header{
+    color: white;
+    text-align:center;
+    border: solid;
+    border-color: maroon;
+    background-color: maroon;
+
+}
+
+.footer{
+    width: 99%;
+    border: solid;
+    border-color: maroon;
+    background-color: maroon;
+
+}
 /*li{
     text-decoration: underline;
 }*/
