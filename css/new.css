@@ -53,20 +53,8 @@ h4{
     border: solid;
     border-color: maroon;
     background-color: maroon;
+    color: white;
+    text-align: center;
 
 }
-/*li{
-    text-decoration: underline;
-}*/
 
-/*ul{ 
-    list-style: none
-    padding: 0;
-}
-
-li{
-    display: flex;
-    align-items: center;
-    margin-bottom: 10px;
-}
-*/
